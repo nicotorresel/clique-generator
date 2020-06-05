@@ -1,0 +1,59 @@
+{
+  "nodes": [
+    {
+      "number": 1,
+      "weight": 11.0,
+      "neighbors": [
+        2,
+        4
+      ]
+    },
+    {
+      "number": 2,
+      "weight": 5.5,
+      "neighbors": [
+        1,
+        4,
+        6,
+        5,
+        3
+      ]
+    },
+    {
+      "number": 3,
+      "weight": 1.1,
+      "neighbors": [
+        2,
+        5
+      ]
+    },
+    {
+      "number": 4,
+      "weight": 7.0,
+      "neighbors": [
+        1,
+        2,
+        6
+      ]
+    },
+    {
+      "number": 5,
+      "weight": 2.5,
+      "neighbors": [
+        6,
+        4,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 6,
+      "weight": 3.5,
+      "neighbors": [
+        4,
+        2,
+        5
+      ]
+    }
+  ]
+}
